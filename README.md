@@ -24,22 +24,27 @@ We started the game programming simple Steering Behaviours that combined allowed
 
 ### Normal Zombie and Ranged Zombie BT
 !["Ranged+NormalBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Ranged%2BNormal.PNG)
+
 With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
 
 ### Suicide Zombie BT
 !["SuicideBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Suicide.PNG)
+
 This zombie will go to the closest barricade he can found and explode making AOE damage.
 
 ### Tank Zombie BT
 !["TankBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Tank.PNG)
+
 The tank will do the same as the normal and ranged but only with barricades, so they will never attack a soldier.
 
 ### Soldier BT
 !["Soldier"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Soldier.PNG)
+
 The soldier will go to their position to guard and in the night they will shoot all the zombies that come.
 
 ### Builder BT
 !["BuilderBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Builder.PNG)
+
 The builder function is to go to the barricades that are not destroyed and repair them.
 
 ## Links
