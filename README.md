@@ -23,13 +23,26 @@ This game has been done in the [Artificial Intelligence](https://www.upc.edu/est
 We started the game programming simple Steering Behaviours that combined allowed us to have all the entities moving through the map. Once we had all the entities moving, we passed its behaviours to Behaviour Trees, so we could manage them in an easier way. Once it was all implemented, we began to add sounds particles and menus to the game, so it could be easier to understand what was happening.
 
 ## Links
-* [Repository](https://manel_mourelo@bitbucket.org/manel_mourelo/ia-game.git)
+* [Repository](https://bitbucket.org/manel_mourelo/ia-game/src/master/)
 * [Game Wiki](https://bitbucket.org/manel_mourelo/ia-game/wiki/Home)
 * [Download latest version](https://github.com/manelmourelo/ZombieCity/releases)
 
 ## Gameplay
 
 Here you can see a short video gameplay of the game.
+
+## Controls
+
+# CAMERA CONTROLS
+
+* Move mouse: Camera will move
+* Mouse wheel: Move Camera forward and backward
+
+# CONTROLS
+
+* To build just use the build button and chose what you want to build with the menu. Once it’s selected click the buildable areas to build.
+
+* To upgrade a building just click on the building and use the menu.
 
 ## License
 
