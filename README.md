@@ -55,6 +55,7 @@ The builder function is to go to the barricades that are not destroyed and repai
 ## Gameplay
 
 Here you can see a short video gameplay of the game.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAiDKeBfwgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Controls
 
