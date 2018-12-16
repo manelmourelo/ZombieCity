@@ -9,10 +9,12 @@ This game has been done in the [Artificial Intelligence](https://www.upc.edu/est
 ## Team Members
 
 ### Sergio Gómez Roldán: 
+* Artist, programmer and designer
 * [GitHub](https://github.com/Sersius) 
 * [BitBucket](https://bitbucket.org/Sersius3/)
 
 ### Manel Mourelo Montero: 
+* Manager, programmer and designer
 * [GitHub](https://github.com/manelmourelo) 
 * [BitBucket](https://bitbucket.org/manel_mourelo/)
 
