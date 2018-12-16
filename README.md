@@ -33,12 +33,12 @@ Here you can see a short video gameplay of the game.
 
 ## Controls
 
-# CAMERA CONTROLS
+### CAMERA CONTROLS
 
 * Move mouse: Camera will move
 * Mouse wheel: Move Camera forward and backward
 
-# CONTROLS
+### CONTROLS
 
 * To build just use the build button and chose what you want to build with the menu. Once it’s selected click the buildable areas to build.
 
