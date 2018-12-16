@@ -28,22 +28,22 @@ We started the game programming simple Steering Behaviours that combined allowed
 With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
 
 ### Suicide Zombie BT
-!["SuicideBT"](/BT/Suicide.PNG)
+!["SuicideBT"](BT/Suicide.PNG)
 
 This zombie will go to the closest barricade he can found and explode making AOE damage.
 
 ### Tank Zombie BT
-!["TankBT"](/BT/Tank.PNG)
+!["TankBT"](BT/Tank.PNG)
 
 The tank will do the same as the normal and ranged but only with barricades, so they will never attack a soldier.
 
 ### Soldier BT
-!["Soldier"](/BT/Soldier.PNG)
+!["Soldier"](BT/Soldier.PNG)
 
 The soldier will go to their position to guard and in the night they will shoot all the zombies that come.
 
 ### Builder BT
-!["BuilderBT"](/BT/Builder.PNG)
+!["BuilderBT"](BT/Builder.PNG)
 
 The builder function is to go to the barricades that are not destroyed and repair them.
 
