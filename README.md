@@ -2,7 +2,7 @@
 
 ZombieCity is a project consistent of creating a AI based Game.
 You play the roll of a zombie commander and you must build different buildings to organize your troops and end with the military forces that are the last defensive forces of the humans.
-This game has been done in the Artificial Intelligence subject in the 3rd year of the Game Design and Development of [CITM](https://www.citm.upc.edu/) ([UPC](https://www.upc.edu/ca)).
+This game has been done in the [Artificial Intelligence](https://www.upc.edu/estudispdf/guia_docent.php?codi=804245&lang=cat) subject in the 3rd year of the G[ame Design and Development](https://www.citm.upc.edu/cat/estudis/graus-videojocs/) grade of [CITM](https://www.citm.upc.edu/) ([UPC](https://www.upc.edu/ca)).
 
 ### Markdown
 
