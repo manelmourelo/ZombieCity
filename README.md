@@ -27,6 +27,7 @@ We started the game programming simple Steering Behaviours that combined allowed
 With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
 
 ### Suicide Zombie BT
+!["SuicideBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Suicide.PNG)
 This zombie will go to the closest barricade he can found and explode making AOE damage.
 
 ### Tank Zombie BT
