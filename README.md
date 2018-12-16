@@ -27,6 +27,10 @@ We started the game programming simple Steering Behaviours that combined allowed
 * [Game Wiki](https://bitbucket.org/manel_mourelo/ia-game/wiki/Home)
 * [Download latest version](https://github.com/manelmourelo/ZombieCity/releases)
 
+## Gameplay
+
+Here you can see a short video gameplay of the game.
+
 ## License
 
 ### ZombieCity is under the MIT License
