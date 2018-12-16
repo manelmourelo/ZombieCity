@@ -20,7 +20,7 @@ This game has been done in the [Artificial Intelligence](https://www.upc.edu/est
 
 ## Evolution
 
-We started the game programming simple Steering Behaviours that combined allowed us to have all the entities moving through the map. Once we had all the entities moving, we passed its behaviours to Behaviour Trees, so we could manage them in an easier way. Once it was all implemented, we began to add sounds particles and menus to the game, so it could be easier to understand what was happening.
+We started the game programming simple Steering Behaviours that combined allowed us to have all the entities moving through the map. Once we had all the entities moving, we passed its behaviours to Behaviour Trees (using [NodeCanvas](http://nodecanvas.paradoxnotion.com/)), so we could manage them in an easier way. Once it was all implemented, we began to add sounds particles and menus to the game, so it could be easier to understand what was happening.
 
 ### Normal Zombie BT
 With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
