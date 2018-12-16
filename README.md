@@ -22,6 +22,24 @@ This game has been done in the [Artificial Intelligence](https://www.upc.edu/est
 
 We started the game programming simple Steering Behaviours that combined allowed us to have all the entities moving through the map. Once we had all the entities moving, we passed its behaviours to Behaviour Trees, so we could manage them in an easier way. Once it was all implemented, we began to add sounds particles and menus to the game, so it could be easier to understand what was happening.
 
+### Normal Zombie BT
+With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
+
+### Ranged Zombie BT
+With this tree this zombies will search a random barricade, when their approach to another barricade they will attack it, and then all the soldiers around an area.
+
+### Suicide Zombie BT
+This zombie will go to the closest barricade he can found and explode making AOE damage.
+
+### Tank Zombie BT
+The tank will do the same as the normal and ranged but only with barricades, so they will never attack a soldier.
+
+### Soldier BT
+The soldier will go to their position to guard and in the night they will shoot all the zombies that come.
+
+### Builder BT
+The builder function is to go to the barricades that are not destroyed and repair them.
+
 ## Links
 * [Repository](https://bitbucket.org/manel_mourelo/ia-game/src/master/)
 * [Game Wiki](https://bitbucket.org/manel_mourelo/ia-game/wiki/Home)
