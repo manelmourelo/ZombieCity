@@ -9,7 +9,7 @@ This game has been done in the [Artificial Intelligence](https://www.upc.edu/est
 ### Team Members
 
 * Sergio Gómez Roldán: [GitHub](https://github.com/Sersius) [BitBucket](https://bitbucket.org/Sersius3/)
-* [Manel Mourelo Montero](https://github.com/manelmourelo) [BitBucket](https://bitbucket.org/manel_mourelo/)
+* Manel Mourelo Montero: [GitHub](https://github.com/manelmourelo) [BitBucket](https://bitbucket.org/manel_mourelo/)
 
 ### Markdown
 
