@@ -31,12 +31,15 @@ With this tree this zombies will search a random barricade, when their approach 
 This zombie will go to the closest barricade he can found and explode making AOE damage.
 
 ### Tank Zombie BT
+!["TankBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Tank.PNG)
 The tank will do the same as the normal and ranged but only with barricades, so they will never attack a soldier.
 
 ### Soldier BT
+!["Soldier"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Soldier.PNG)
 The soldier will go to their position to guard and in the night they will shoot all the zombies that come.
 
 ### Builder BT
+!["BuilderBT"](https://github.com/manelmourelo/ZombieCity/blob/master/BT/Builder.PNG)
 The builder function is to go to the barricades that are not destroyed and repair them.
 
 ## Links
