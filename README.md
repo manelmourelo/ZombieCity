@@ -62,6 +62,8 @@ Here you can see a short video gameplay of the game.
 
 * To upgrade a building just click on the building and use the menu.
 
+* If you use the right button of the mouse you’ll drop a brain that if is eaten by a zombie it will heal him and double his attack damage.
+
 ## License
 
 ### ZombieCity is under the MIT License
