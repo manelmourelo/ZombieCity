@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About the game
 
-You can use the [editor on GitHub](https://github.com/manelmourelo/ZombieCity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ZombieCity is a project consistent of creating a AI based Game.
+You play the roll of a zombie commander and you must build different buildings to organize your troops and end with the military forces that are the last defensive forces of the humans.
+This game has been done in the Artificial Intelligence subject in the 3rd year of the Game Design and Development of CITM[https://www.citm.upc.edu/] (UPC).
 
 ### Markdown
 
