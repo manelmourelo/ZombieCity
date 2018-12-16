@@ -1,6 +1,6 @@
 ## About the game
 
-[ZombieCity](https://bitbucket.org/manel_mourelo/ia-game/wiki/Home) is a project consistent of creating a AI based Game.
+[ZombieCity](https://bitbucket.org/manel_mourelo/ia-game/wiki/Home) is a project consistent of creating a AI based Game made with [Unity3D](https://unity3d.com/es).
 
 You play the roll of a zombie commander and you must build different buildings to organize your troops and end with the military forces that are the last defensive forces of the humans.
 
