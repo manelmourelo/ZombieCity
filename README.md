@@ -6,6 +6,11 @@ You play the roll of a zombie commander and you must build different buildings t
 
 This game has been done in the [Artificial Intelligence](https://www.upc.edu/estudispdf/guia_docent.php?codi=804245&lang=ing) subject in the 3rd year of the [Game Design and Development](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) grade of [CITM](https://www.citm.upc.edu/ing/) ([UPC](https://www.upc.edu/en?set_language=en)).
 
+### Team Members
+
+* Sergio Gómez Roldán: [GitHub](https://github.com/Sersius) [BitBucket](https://bitbucket.org/Sersius3/)
+* [Manel Mourelo Montero](https://github.com/manelmourelo) [BitBucket](https://bitbucket.org/manel_mourelo/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
